@@ -1,5 +1,5 @@
 # simple task manager react with typeScript 
-
+# url [live](https://musical-sundae-bb01a3.netlify.app/)
  *** you can add , remove , edit , delet , and drag and drop taskes
 
 # more details  
